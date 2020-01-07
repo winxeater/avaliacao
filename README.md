@@ -52,5 +52,7 @@ Após o término do desenvolvimento você deve fazer um pull request para a bran
 #### Duvidas
 Utilize o issues.
 
+Boa Sorte :rocket::rocket::rocket:
+
 
 
