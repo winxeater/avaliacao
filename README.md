@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.ibb.co/C1h4NYC/Gera-Sinergia-Oficial.png" alt="Gera-Sinergia-Oficial" border="0" />
+    <img src="https://i.ibb.co/W59TMW4/gera-branco.jpg" alt="gera-branco" border="0">
 </p>
 <p align="center">
   <h3 align="center">Avaliação Pratica</h3>
@@ -49,8 +49,8 @@ Sinta se livre para escolher o tema do sistema, nós só queremos ver as funcion
 #### Como devo enviar o meu projeto
 Após o término do desenvolvimento você deve fazer um pull request para a branch dev, após isso estaremos analisando o seu projeto.
 
-
-
+#### Duvidas
+Utilize o issues.
 
 
 
